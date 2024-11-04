@@ -1,5 +1,3 @@
-# housing-price-predictor
-
 # Housing Price Prediction
 
 ## Project Overview
